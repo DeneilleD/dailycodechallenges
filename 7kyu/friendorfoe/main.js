@@ -8,9 +8,11 @@ P: array of strings
 R: returning array with friends names - names < 4 chars
 E: above
 P: filter, item length < 4, if true push into a new array
+
 */
+
 function friend(friends){
     //your code here
     return friends.filter(el => el.length === 4)
-    
+
   }
