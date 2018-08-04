@@ -11,6 +11,8 @@ P: filter, item length < 4, if true push into a new array
 */
 
 
+
+
 function friend(friends){
     //your code here
     return friends.filter(el => el.length === 4)
