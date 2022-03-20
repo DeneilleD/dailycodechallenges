@@ -9,7 +9,7 @@ P:  create a functin that takes in an integer number and
 
 */  
 
-function squareNum(num){
+function squareNum(num){ 
     let newNum = num * num;
     return newNum;
 }
