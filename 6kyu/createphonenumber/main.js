@@ -5,8 +5,6 @@ createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
 The returned format must be correct in order to complete this challenge.
 Don't forget the space after the closing parentheses
 
-
-
 P: parameter takes in an array of only 10 integers ** not including double digits
 R: return a string that replicates a phone #, with parenthesis, dashes, and space
 E: createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
