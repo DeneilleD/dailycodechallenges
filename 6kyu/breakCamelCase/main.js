@@ -1,11 +1,9 @@
-/*   Complete the solution so that the function will break up camel casing, using a space between words.
-
+/*   Complete the solution so that the function will break up camel casing, using a space between words.s
 Example
 "camelCasing"  =>  "camel Casing"
 "identifier"   =>  "identifier"
 ""             =>  ""
  */
-
 function solution(string) {
   let arr = string.split('')
   for(let i = 0; i < arr.length; i++){
