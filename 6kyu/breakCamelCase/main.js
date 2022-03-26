@@ -11,6 +11,6 @@ function solution(string) {
           arr.splice(i, 0, ' ')
           break
       }
-  }
+  }  
   return arr.join('')
 }
