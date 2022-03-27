@@ -2,7 +2,7 @@
 Example
 "camelCasing"  =>  "camel Casing"
 "identifier"   =>  "identifier"
-""          =>  ""
+""        =>  ""
  */
 function solution(string) {
   let arr = string.split('')
