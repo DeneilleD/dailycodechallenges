@@ -13,7 +13,6 @@ E: up there
 P: Conditionals to compare array elements, loop to iterate through each element as well, counter for pairs
 */
 
-
 function numberOfPairs(gloves){
     let arr = gloves.slice().sort((a,b)=>a.localeCompare(b))
     let pairs = 0;

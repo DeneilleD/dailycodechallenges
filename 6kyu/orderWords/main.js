@@ -26,7 +26,6 @@ sort the words in order by the number in each string.
 //    }
     
 //   }
-
   //actual solution
 
   function order(words){
