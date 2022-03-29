@@ -10,3 +10,5 @@ P: create a function that will take a sequenceof 3 numbers,
     add and return nth #. so on so forth
  */
   
+
+    
