@@ -8,6 +8,8 @@ function isPangram(string){
   const str = string.toLowerCase();
  
    for (let i = 0; i < alphabet.length-1; i += 1) {
+
+    
     let foundLetters = str.indexOf(alphabet[i])
     if (foundLetters === -1){
       return false;

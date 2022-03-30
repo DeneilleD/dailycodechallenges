@@ -8,8 +8,6 @@ P:  create a functin that takes in an integer number and
     returns the square root of number
 
 */  
-
-
 function squareNum(num){ 
     let newNum = num * num;
     return newNum;
