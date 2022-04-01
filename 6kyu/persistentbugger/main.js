@@ -11,6 +11,8 @@ E: ^ abve
 P: 
 */
 
+
+
 function persistence(num) {
     var times = 0;
     
