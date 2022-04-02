@@ -8,7 +8,9 @@ R: return a series of numbers based on the n number(s);
 E: [1,2, 3, 6, 5, 7, 18..]
 P: create a function that will take a sequenceof 3 numbers,
     add and return nth #. so on so forth
- */
+ 
+ 
+    */
   
 
     
