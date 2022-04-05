@@ -10,9 +10,6 @@ R: returns multiplicative persistance - aka number of times you must multiple th
 E: ^ abve
 P: 
 */
-
-
-
 function persistence(num) {
     var times = 0;
     
