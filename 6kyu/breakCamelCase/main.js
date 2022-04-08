@@ -4,6 +4,8 @@ Example
 "identifier"   =>  "identifier"
 ""        =>  ""
  */
+
+
 function solution(string) {
   let arr = string.split('')
   for(let i = 0; i < arr.length; i++){
