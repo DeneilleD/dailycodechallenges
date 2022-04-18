@@ -7,9 +7,6 @@ Implement the function which takes an array containing the names of people that 
 ["Max", "John", "Mark"]           -->  "Max, John and Mark like this"
 ["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
 Note: For 4 or more names, the number in "and 2 others" simply increases. */
-
-
-
 /*TODO
  function taking an array
 array of names of ppl liked post
