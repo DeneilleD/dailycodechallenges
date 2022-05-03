@@ -1,0 +1,1 @@
+I began by making a  function that takes in a string parameter; This is then put into anarray using the 'split()' method. Following the 'reverse()' method to reverse the order of the name And laslty use the 'join' method to combine what is now the name reversed.

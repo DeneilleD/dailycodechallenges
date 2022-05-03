@@ -1,0 +1,1 @@
+In creating a function called testEven, I am returning the number and in using the modulus (%) I am checking to see if the parameter passed in, is even.

@@ -1,0 +1,1 @@
+This code war introduced the method which is "repeat". I learned this is extremely useful when wanting to returna string a number of times.

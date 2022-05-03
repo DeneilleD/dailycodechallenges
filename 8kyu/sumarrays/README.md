@@ -1,0 +1,1 @@
+In order to print the sum of a set of arrays I recognized the need for a loop as to iterate through all the elements and then adding it to the sum.

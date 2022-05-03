@@ -1,0 +1,1 @@
+This code war will be able arrays by using the reverse method I am able to target the function parameter (array) and spit it out in reverse order.

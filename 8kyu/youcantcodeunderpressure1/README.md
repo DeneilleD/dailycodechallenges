@@ -1,0 +1,1 @@
+In order to double an integer parameter in the function doubleInteger. I multiplied the input by itself and returned the function. 
