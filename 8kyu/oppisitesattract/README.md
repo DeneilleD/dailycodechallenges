@@ -1,0 +1,1 @@
+When looking to solve this problem I recognized the need for compatison due to "being in love" needed a boolean value of true or false to be true. Considering the flower one petals needed to be even (% divisble by 2) and flower one odd, we set the flowers to be not equal to one another.
