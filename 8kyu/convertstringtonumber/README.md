@@ -1,0 +1,1 @@
+In order to convert a string to a number : parseInt is used to switch the input value to that of a number.
