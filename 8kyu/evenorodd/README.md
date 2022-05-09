@@ -1,0 +1,1 @@
+In order to check if a number is even or odd I check to see if it is divisible by 2 or 1 using the %. I then return even if it is divisible by too ":" else, return odd.
