@@ -1,0 +1,1 @@
+In order to retun the square value of an input I recognized the initial parameter needed to be mulriplied by itself in order to satisfy the problem.
