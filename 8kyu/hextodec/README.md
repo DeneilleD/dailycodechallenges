@@ -1,0 +1,1 @@
+Considering I am looking to change a string value to a number I will be using the parseInt() method. In order to set this number to a decimal as well, we include the radix: "A number with a radix of 16 indicates that the number in the string should be parsed from a hexadecimal number to a decimal number."
