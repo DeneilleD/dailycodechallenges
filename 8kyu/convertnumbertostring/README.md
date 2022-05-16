@@ -1,0 +1,1 @@
+In order to convert a number to string I utilize the 'toString' method and convert the parameter passed in.
