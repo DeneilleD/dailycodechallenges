@@ -1,0 +1,1 @@
+In order to see how many times the hula hoop goes round I set up a an if condition testing for a number value greater than 10 and less than 10 to recieve the desired message/status.
