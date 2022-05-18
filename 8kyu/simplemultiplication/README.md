@@ -1,0 +1,1 @@
+In order to execute this function I understand that I have use the module to determine if the number is even or not to get the necessary output. In using a ternary operator I condense an if condition. 
