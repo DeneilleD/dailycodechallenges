@@ -1,0 +1,1 @@
+In order to check if the array in the functions containts the value x, I utilize the includes method, which checks for the value entry.
