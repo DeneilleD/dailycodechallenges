@@ -1,0 +1,1 @@
+In order to remove the first and last character in a string I utilize the slice method knowing it will take a given value to display a new value starting at that next inpu. and stopping before the given value to display the end.

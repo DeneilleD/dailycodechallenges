@@ -1,0 +1,1 @@
+In recognizing the proper syntax for a function I noticed a closing bracket at the end of the function but noticed an opening one was not present.I also noticed the functions permameters were not embedded corrwctly and rather than being contained by paranthesis were contained by square brackets 

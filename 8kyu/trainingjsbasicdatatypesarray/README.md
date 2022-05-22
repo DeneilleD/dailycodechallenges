@@ -1,0 +1,1 @@
+In order to statisfy this code's problem I recognize all the mehods within an array whih can be used in this case, adding, deleting, and retrieving the length of an array through these methods.

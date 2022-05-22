@@ -1,1 +1,0 @@
-In order to return an array with the value passed in returned as a coherent sentence, I use the join method to combine the index valued. forming a sentence.
