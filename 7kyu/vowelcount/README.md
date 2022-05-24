@@ -1,0 +1,3 @@
+In recognizing that I need to check for all the vowels in a given string and returnt hat count. I begin by storing the vowels we are checking for in an array.
+
+My next step in creating a for loop checks to make sure the length of the string prints until the end, and embedded within that for loop another checker to make sure all of the vowels have been accounted for in the string. An if condition to check if the index "containing a vowel" is present in the string the vowel count will increase.
