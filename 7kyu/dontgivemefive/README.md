@@ -1,0 +1,1 @@
+Created a function that takes in a number; in order to return the count of all numbers I set up a loop to include all number including begining as well as the begining which will increase by 1 to justify the end point. In order to make sure this count does not include the #5, we use the '!" operator to be sure it does not arrive in the numbers.
