@@ -16,6 +16,7 @@ array of names of ppl liked post
  if more than 2 liked:: then print 2 names & combine the likes in number*/
 
 
+ 
  function likes(names) {
   if(names.length === 0){
     return 'no one likes this'
