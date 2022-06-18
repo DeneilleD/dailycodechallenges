@@ -9,6 +9,8 @@ Implement the function which takes an array containing the names of people that 
 Note: For 4 or more names, the number in "and 2 others" simply increases. */
 /*TODO
 
+
+
  function taking an array
 array of names of ppl liked post
  if no one liked it , make it an empty string
