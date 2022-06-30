@@ -1,1 +1,0 @@
-create a function that will take in a string and evaluate which character is seen most throughout:: return character and count # as a digit:: create a count variable
