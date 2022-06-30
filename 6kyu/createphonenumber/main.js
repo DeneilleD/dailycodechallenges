@@ -13,9 +13,9 @@ E: createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-78
 P: create a function that takes in the array . and push the parenthesis(), dash - and space into specific array indexes.  Create a for loop to turn array into a string using toString() method. Return new string with join() method** 
 
 
-*/
+************************* splicing method version :: initial attempt *********************************************/
 
-function createPhoneNumber(numbers){
+/* function createPhoneNumber(numbers){
   let newArr = []
   for(let i = 0; i < numbers.length; i++){
     let str = numbers[i].toString()
@@ -27,4 +27,25 @@ function createPhoneNumber(numbers){
   newArr.splice(9, 0, '-')
   let result = newArr.join('')
   return result
-}
+}  
+**************************condition statement version*******************************************/
+
+function createPhoneNumber(numbers){
+  let newArr = []
+  for(let i = 0; i < numbers.length; i++){
+    if(i === 0){
+      newArr.push('(' + numbers[i])
+    }else if(i=== 2){
+      newArr.push( numbers[i] + ')' + ' ')
+    }else if(i === 6){
+      newArr.push('-' + numbers[i])
+    }else{ 
+      newArr.push(numbers[i]) 
+    }
+  }
+  let result = newArr.join('')  
+  console.log(result)
+  return result
+} 
+createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0])
+ 
