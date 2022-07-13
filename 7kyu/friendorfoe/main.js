@@ -16,8 +16,3 @@ function friend(friends){
   
   }
 
-
-
-
-
-  
