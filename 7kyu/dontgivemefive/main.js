@@ -9,14 +9,14 @@ The result may contain fives. ;-)
 The start number will always be smaller than the end number. Both numbers can be also negative!
 */ 
 
+function dontGiveMeFive(start, end) {
+  let count = 0;
 
-function dontGiveMeFive(start, end){
-  let count = 0
-  for(let i = start; i <= end; i++){
-     let arr = i.toString().split('')
-     if(!arr.includes('5')){
-         count += 1
-     }
-  }
-return count
+  for (let i = start; i <= end; ++i)
+      if (!i.toString().includes("5"))
+          count++;
+
+  return count;
 }
+
+
