@@ -7,5 +7,3 @@ What ways of achieving this do you know? */
   return num.toString()
 }
 numberToString(7)
-
-
