@@ -8,6 +8,3 @@ What ways of achieving this do you know? */
 }
 numberToString(7)
 
-
-
-
