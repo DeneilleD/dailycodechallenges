@@ -6,5 +6,5 @@ What ways of achieving this do you know? */
   // Return a string of the number here!
   return num.toString()
 }
-numberToString()
+numberToString(7)
 
