@@ -20,8 +20,9 @@ function closeToZero(arr){
       }else if(sortedArr[i] > 0 && sortedArr[i] <= Math.abs(closestNum)){
             closestNum = sortedArr[i]
       }
+      
     }
-    
+
     console.log(closestNum)
     return closestNum
   }
