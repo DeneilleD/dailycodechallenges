@@ -8,7 +8,7 @@ R: sum of multiples
 E: 
 P: conditionals, loop through multiples
 */
-
+  
 function solution(number){
     let sum = 0;
     
