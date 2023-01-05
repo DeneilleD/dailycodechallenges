@@ -21,7 +21,7 @@ function numberOfPairs(gloves){
       if (arr[i-1]===arr[i]){
         pairs++
         i++
-      }
+      }   
     }
     return pairs
  }
