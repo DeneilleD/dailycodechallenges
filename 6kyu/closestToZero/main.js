@@ -26,8 +26,9 @@ function closeToZero(arr){
     return closestNum
   }
 
-
   
+
+
 
 
   closeToZero([-8, 3, 11, 2, 1, 4, 21, -3, -2 ])
