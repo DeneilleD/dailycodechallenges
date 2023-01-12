@@ -21,6 +21,7 @@ function closeToZero(arr){
             closestNum = sortedArr[i]
       }
     }
+    
 
     console.log(closestNum)
     return closestNum
