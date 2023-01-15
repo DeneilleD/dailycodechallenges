@@ -22,9 +22,6 @@ function closeToZero(arr){
       }
     }
 
-
-
-
     console.log(closestNum)
     return closestNum
   }
