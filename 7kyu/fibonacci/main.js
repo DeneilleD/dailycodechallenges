@@ -7,8 +7,6 @@ R: returning the nth element in the fib sequence
 E: n = 5, returns 8, 
 P: so we need to start at one, 
 */
-
-
 function fibonacci(n) {
     // Code goes here
     let previousNum = 0
