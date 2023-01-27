@@ -20,7 +20,4 @@ function fibonacci(n) {
         counter++
       }
     return currentNum
-
-
-    
 }
