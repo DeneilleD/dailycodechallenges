@@ -19,5 +19,7 @@ function fibonacci(n) {
         currentNum = sum
         counter++
       }
+
+      
     return currentNum
 }
