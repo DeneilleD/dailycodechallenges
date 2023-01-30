@@ -12,6 +12,7 @@ function fibonacci(n) {
     let previousNum = 0
     let currentNum = 1
     let counter = 1
+
     
     while (counter <= n) {
         let sum = 0
