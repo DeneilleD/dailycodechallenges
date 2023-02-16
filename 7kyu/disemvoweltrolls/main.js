@@ -10,7 +10,6 @@ Note: for this kata y isn't considered a vowel.
 
 
 
-
    */    
 
 
