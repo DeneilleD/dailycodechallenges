@@ -5,7 +5,7 @@ Example
 ""        =>  ""
  */
 
-
+/* bug fix*/ 
 function solution(string) {
   let arr = string.split('')
   for(let i = 0; i < arr.length; i++){
