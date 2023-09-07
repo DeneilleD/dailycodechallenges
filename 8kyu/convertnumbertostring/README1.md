@@ -1,1 +1,1 @@
-Chrck for bugs
+Check for bugs
